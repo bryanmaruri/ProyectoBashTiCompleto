@@ -1,2 +1,2 @@
 # ProyectoBashTiCompleto
-EvaluacionParcialDefitnitica
+EvaluacionParcialDefinitiva
